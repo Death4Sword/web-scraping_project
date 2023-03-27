@@ -27,7 +27,7 @@ Cette bibliothèque en lien avec matplotlib et pandas, permet d'afficher des gra
 #### class TestScraping :
     Cette classe contient les tests unitaires pour la fonction de scraping
 #### class TestInsertDb :
-    cette classe contient les tests unitaires pour la fonction d'insertion dans la base de donnée.
+    Cette classe contient les tests unitaires pour la fonction d'insertion dans la base de donnée.
 
 #### def test_streamlit_func :
     Cette fonction, permet de faire les tests unitaires pour la fonction générant notre site en utilisant streamlit
